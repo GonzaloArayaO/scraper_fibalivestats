@@ -1,0 +1,3 @@
+match_id,fecha,equipo,cod_equipo,dt,fase,min,pts,tcc,tci,tc%,t2c,t2i,t2%,t3c,t3i,t3%,tlc,tli,tl%,ro,rd,rt,ast,per,rob,blq,blq_re,fp,fp_re,val,pts_banca,pts_contraataque,pts_por_perdida,pts_en_pintura,pts_segunda_oportunidad
+2607028,2024-12-15,CD ILLAPEL BASQUETBOL,ILL,Gustavo Ciriacci,Final four,200,67,22,66,0.33,18,43,0.42,4,23,0.17,19,32,0.59,14,37,51,17,15,14,1,7,15,23,78,9,2,24,32,6
+2607028,2024-12-15,CORP. DEP. BOSTON COLLEGE,BCO,Benjamin Gasc,Final four,200,51,16,63,0.25,9,30,0.3,7,33,0.21,12,20,0.6,13,34,47,10,23,8,7,1,23,15,45,8,2,12,14,6

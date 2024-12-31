@@ -1,0 +1,25 @@
+match_id,fecha,#,jugador,nombre,apellidos,equipo,localia,fase,competencia,titular,tiempo_de_juego,min,pts,tcc,tci,tc%,t2c,t2i,t2%,t3c,t3i,t3%,tlc,tli,tl%,ro,rd,rt,ast,per,rob,blq,blq_re,fp,fp_re,+/-,val
+2607028,2024-12-15,5,E. Sepulveda Soto,Eduardo,Sepulveda Soto,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,1,34:01,34.02,6,2,8,0.25,0,1,0.0,2,7,0.29,0,0,0.0,1,3,4,4,3,0,0,0,2,0,9,5
+2607028,2024-12-15,11,S. Chialva Balut,Sergio,Chialva Balut,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,1,28:19,28.32,10,4,8,0.5,4,7,0.57,0,1,0.0,2,4,0.5,4,7,11,0,0,2,1,1,3,3,11,18
+2607028,2024-12-15,13,M. Sepulveda Soto,Matias,Sepulveda Soto,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,1,33:15,33.25,15,4,15,0.27,3,9,0.33,1,6,0.17,6,8,0.75,0,7,7,3,1,4,0,1,1,6,15,15
+2607028,2024-12-15,15,A. Robinson Jr,Antone Dean,Robinson Jr,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,1,37:50,37.83,24,8,20,0.4,7,15,0.47,1,5,0.2,7,10,0.7,2,11,13,5,3,1,0,2,2,6,15,25
+2607028,2024-12-15,29,F. Villagran Veliz,Fernando J.,Villagran Veliz,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,1,16:46,16.77,3,1,1,1.0,1,1,1.0,0,0,0.0,1,3,0.33,1,3,4,0,4,1,0,0,2,4,7,2
+2607028,2024-12-15,1,M. Brito Cortes,Martin,Brito Cortes,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,0,0:00,0.0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+2607028,2024-12-15,2,L. Iceta Opazo,Luis,Iceta Opazo,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,0,0:00,0.0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+2607028,2024-12-15,4,P. Gonzalez Leiva,Patricio,Gonzalez Leiva,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,0,0:00,0.0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+2607028,2024-12-15,6,R. Rojas Gonzalez,Rodrigo,Rojas Gonzalez,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,0,23:47,23.78,7,3,12,0.25,3,8,0.38,0,4,0.0,1,2,0.5,2,2,4,1,1,2,0,2,1,1,14,3
+2607028,2024-12-15,8,J. Rojas Rojo,Joaquin,Rojas Rojo,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,0,0:17,0.28,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+2607028,2024-12-15,9,F. Gonzalez Burgos,Felipe,Gonzalez Burgos,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,0,25:45,25.75,2,0,2,0.0,0,2,0.0,0,0,0.0,2,5,0.4,1,3,4,4,3,4,0,1,4,3,9,6
+2607028,2024-12-15,10,L. Gonzalez Huerta,Lucas,Gonzalez Huerta,CD ILLAPEL BASQUETBOL,Local,Final four,LNB 2,0,0:00,0.0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+2607028,2024-12-15,7,G. Soto Contreras,Gabriel A.,Soto Contreras,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,1,35:58,35.97,14,5,16,0.31,1,4,0.25,4,12,0.33,0,0,0.0,2,0,2,1,1,0,0,0,0,0,-10,5
+2607028,2024-12-15,13,C. Ordonez Lucero,Cristobal J.,Ordonez Lucero,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,1,34:03,34.05,14,5,11,0.45,3,5,0.6,2,6,0.33,2,2,1.0,0,4,4,1,5,3,1,0,2,1,-13,12
+2607028,2024-12-15,23,V. Schulz Morend,Vicente H.,Schulz Morend,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,1,27:11,27.18,4,1,6,0.17,1,4,0.25,0,2,0.0,2,2,1.0,2,5,7,2,7,2,0,0,2,1,-18,3
+2607028,2024-12-15,55,A. Galaviz Diaz,Angel,Galaviz Diaz,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,1,28:07,28.12,3,0,6,0.0,0,3,0.0,0,3,0.0,3,4,0.75,3,4,7,1,3,0,3,0,4,2,-10,4
+2607028,2024-12-15,77,L. Marquez Dogliotti,Lucas,Marquez Dogliotti,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,1,25:59,25.98,8,2,11,0.18,2,10,0.2,0,1,0.0,4,10,0.4,1,9,10,4,2,2,1,0,5,8,0,8
+2607028,2024-12-15,3,G. Fernandez Castro,Gaston I.,Fernandez Castro,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,0,7:57,7.95,0,0,3,0.0,0,0,0.0,0,3,0.0,0,0,0.0,1,1,2,0,2,0,0,0,1,1,-7,-3
+2607028,2024-12-15,5,R. Castellano Pinto,Rodrigo I.,Castellano Pinto,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,0,8:43,8.72,1,0,0,0.0,0,0,0.0,0,0,0.0,1,2,0.5,0,2,2,1,2,0,0,0,2,2,-15,1
+2607028,2024-12-15,11,N. Ihnen Farias,Nicolas I.,Ihnen Farias,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,0,0:00,0.0,0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+2607028,2024-12-15,15,F. Martinez Maury,Francisco,Martinez Maury,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,0,10:51,10.85,5,2,5,0.4,1,1,1.0,1,4,0.25,0,0,0.0,0,3,3,0,0,1,1,0,1,0,-1,7
+2607028,2024-12-15,16,I. Pacheco Munoz,Ivan,Pacheco Munoz,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,0,4:21,4.35,0,0,1,0.0,0,0,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,2,-1
+2607028,2024-12-15,22,H. Reyes Mosquera,Hebert J.,Reyes Mosquera,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,0,12:23,12.38,2,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0.0,1,4,5,0,1,0,1,0,5,0,-7,6
+2607028,2024-12-15,24,A. Guarda Colipan,Alexander,Guarda Colipan,CORP. DEP. BOSTON COLLEGE,Visita,Final four,LNB 2,0,4:27,4.45,0,0,2,0.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,1,0,-1,-2
